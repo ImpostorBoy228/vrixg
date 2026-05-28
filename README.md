@@ -1,5 +1,5 @@
 ```
-impostorboy ~/projects/vrixg 💀 ./vrixg
+impostorboy /vrixg 💀 ./vrixg
 Enter letter count: 6
 
 Enter W count: 6
