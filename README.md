@@ -1,4 +1,4 @@
-bash```
+```
 impostorboy ~/projects/vrixg 💀 ./vrixg
 Enter letter count: 6
 
