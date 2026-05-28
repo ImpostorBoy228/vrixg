@@ -1,6 +1,6 @@
 # Requrements:
 libbsd
-
+# Usage
 ```
 impostorboy /vrixg 💀 ./vrixg
 Enter letter count: 6
