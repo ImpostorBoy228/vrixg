@@ -1,5 +1,4 @@
-# Requrements:
-libbsd
+# Requrements: libbsd
 # Usage
 ```
 impostorboy /vrixg 💀 ./vrixg
